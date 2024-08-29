@@ -1,3 +1,3 @@
-# FUSION-TECH-TASK---1
+# FUSION-TECH-TASK-2
 
 Calculator App
